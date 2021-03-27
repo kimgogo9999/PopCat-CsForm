@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\POPCAT\POPCAT\bin\Debug\POPCAT.exe.config
+C:\Users\User\source\repos\POPCAT\POPCAT\bin\Debug\POPCAT.exe
+C:\Users\User\source\repos\POPCAT\POPCAT\bin\Debug\POPCAT.pdb
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.csprojAssemblyReference.cache
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.Form1.resources
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.Properties.Resources.resources
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.csproj.GenerateResource.cache
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.exe
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.pdb
